@@ -12,7 +12,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 6%;
+    margin-bottom: 4%;
     margin-top: 6%;
 }
 .box{
@@ -34,7 +34,4 @@ body{
     width:350px;
     margin: 10px;
     background-color: white;
-}
-.container1 .a{
-    color: blue;
 }
